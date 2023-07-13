@@ -1,0 +1,5 @@
+.imagenes-galeria {
+    width: 300px;
+    display: flexbox;
+    flex-wrap: wrap;
+}
