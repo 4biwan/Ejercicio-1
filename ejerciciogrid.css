@@ -1,0 +1,27 @@
+.col-sm {
+    max-width: 100%;
+    margin: 0.25rem;
+    background-color: green;
+    text-align: center;
+}
+
+.col-md {
+    max-width: 100%;
+    margin: 0.25rem;
+    background-color: yellow;
+    text-align: center;
+}
+
+.col-lg {
+    max-width: 100%;
+    margin: 0.25rem;
+    background-color: blue;
+    text-align: center;
+}
+
+.col-xl {
+    max-width: 100%;
+    margin: 0.25rem;
+    background-color: red;
+    text-align: center;
+}
